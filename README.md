@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a hobby developer exploring automation, data analysis, and web development projects. Below is a selection of my repositories showcasing my technical work.
 
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.5M-lightblue?style=for-the-badge)
+
 ## 🛠️ Skills & Technologies
 
 ### Programming
@@ -66,9 +68,12 @@ A script to generate `.ics` files for calendar events. It includes support for r
 
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasyan1337&theme=radical&hide_border=true)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasyan1337&theme=radical&hide_border=true) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true)
+
 </div>
+
 ---
 
 ## 📫 Contact Me

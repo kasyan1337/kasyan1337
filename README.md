@@ -64,17 +64,11 @@ A script to generate `.ics` files for calendar events. It includes support for r
 
 ---
 
-## 🏆 GitHub Contributions
-
+## 📊 GitHub Stats
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasyan1337&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyan1337&show_icons=true&theme=radical&hide_border=true)
-
+</div>
 ---
 
 ## 📫 Contact Me

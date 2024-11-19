@@ -1,5 +1,7 @@
 # Hi there, I'm Kasim 👋
 
+Welcome to my GitHub profile! I'm a hobby developer exploring automation, data analysis, and web development projects. Below is a selection of my repositories showcasing my technical work.
+
 ## 🛠️ Skills & Technologies
 
 ### Programming
@@ -60,6 +62,18 @@ A script designed to handle file format conversions. The project supports format
 ### [Calendar_ICS_Maker](https://github.com/kasyan1337/Calendar_ics_maker)
 A script to generate `.ics` files for calendar events. It includes support for recurring events, custom reminders, and time zone adjustments for integration with calendar applications.
 
+---
+
+## 🏆 GitHub Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasyan1337&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyan1337&show_icons=true&theme=radical&hide_border=true)
 
 ---
 

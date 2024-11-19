@@ -28,19 +28,38 @@
 
 ---
 
-## 🛠️ Projects
+## 📂 Featured Projects
+
+### [SJTU_Tennis](https://github.com/kasyan1337/SJTU_tennis)
+An automation script to book tennis courts at Shanghai Jiao Tong University. It handles user authentication, availability checks, and booking through web automation tools.
+
+### [Bulk_Mail](https://github.com/kasyan1337/bulk_mail)
+A Python application for sending bulk HTML emails. The project includes features for recipient management, dynamic email content generation, and email server integration.
+
+### [GPT_File_Translator](https://github.com/kasyan1337/GPT_file_translator)
+A tool that leverages OpenAI's GPT API to translate file contents. It includes support for multiple file formats and languages, with a focus on seamless integration into existing workflows.
+
+### [Leetcode](https://github.com/kasyan1337/Leetcode)
+A repository of Leetcode solutions, organized by problem type and difficulty. This collection demonstrates algorithmic problem-solving skills and efficient use of data structures.
+
+### [Whisper_Local](https://github.com/kasyan1337/whisper_local)
+A Python implementation of OpenAI's Whisper model for speech-to-text processing. The project integrates Whisper with GPT API for local transcription tasks on macOS, focusing on efficient handling of audio inputs and text outputs.
+
+### [Sentiment_Analysis](https://github.com/kasyan1337/Sentiment_Analysis)
+A Python-based sentiment analysis tool that processes text data using machine learning techniques. The project involves text preprocessing, feature extraction, and model training for sentiment classification.
+
+### [Web_Scrapping_Gold_Apple](https://github.com/kasyan1337/Web_scrapping_gold_apple)
+A web scraping script to extract data from the Gold Apple e-commerce platform. The project employs Python libraries such as BeautifulSoup and Selenium to collect structured data from product pages.
+
+### [Notification_CWT](https://github.com/kasyan1337/notification_cwt)
+A notification system developed for automated reminders and alerts. It includes a Python script to send notifications based on predefined schedules or triggers.
 
 ### [Converter](https://github.com/kasyan1337/Converter)
-A tool designed to [brief description of what it converts or its purpose]. This project demonstrates my ability to [mention any specific skills or technologies used].
+A script designed to handle file format conversions. The project supports formats like CSV, XLSX, and JSON, ensuring compatibility for various data processing workflows.
 
-### [GPT File Translator](https://github.com/kasyan1337/GPT_file_translator)
-An application that leverages GPT models to translate files efficiently. This project showcases my experience with natural language processing and AI integration.
+### [Calendar_ICS_Maker](https://github.com/kasyan1337/Calendar_ics_maker)
+A script to generate `.ics` files for calendar events. It includes support for recurring events, custom reminders, and time zone adjustments for integration with calendar applications.
 
-### [Sentiment Analysis](https://github.com/kasyan1337/Sentiment_Analysis)
-A sentiment analysis tool that [brief description of its functionality]. This project highlights my skills in data analysis and machine learning.
-
-### [Leetcode Solutions](https://github.com/kasyan1337/Leetcode)
-A collection of solutions to various Leetcode problems, demonstrating my problem-solving abilities and proficiency in algorithms and data structures.
 
 ---
 

@@ -22,10 +22,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
-### Office Tools & Video Editing
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Sony Vegas](https://img.shields.io/badge/Sony_Vegas-2B2B2B?style=for-the-badge&logo=vegas&logoColor=white)
-
 ### Automation
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -51,7 +47,5 @@ A collection of solutions to various Leetcode problems, demonstrating my problem
 ## 📫 Contact Me
 
 - Email: kasim.janci98@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-- Personal Website: [Your Website]
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas!

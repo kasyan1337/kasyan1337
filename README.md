@@ -69,7 +69,7 @@ A script to generate `.ics` files for calendar events. It includes support for r
 ## 📊 GitHub Stats
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kasyan1337)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kasyan1337&theme=dark&hide_border=true)](https://git.io/streak-stats) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true)
 
 </div>

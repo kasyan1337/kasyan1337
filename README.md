@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a hobby developer exploring automation, data a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-9C27B0?style=for-the-badge&logo=python&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-3C78D8?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-E10098?style=for-the-badge&logo=python&logoColor=white)
 

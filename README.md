@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a hobby developer exploring automation, data analysis, and web development projects. Below is a selection of my repositories showcasing my technical work.
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.5M-lightblue?style=for-the-badge)
-
 ## 🛠️ Skills & Technologies
 
 ### Languages

@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I'm a hobby developer exploring automation, data a
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Automation & Tools
+![Linux](https://img.shields.io/badge/Linux%20(OS%20+%20CLI)-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### Web & UI Development
@@ -47,6 +47,14 @@ Welcome to my GitHub profile! I'm a hobby developer exploring automation, data a
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### Cybersecurity & Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679B9?style=for-the-badge&logo=wireshark&logoColor=white)
+![Packet Sniffing](https://img.shields.io/badge/Packet%20Sniffing-E53935?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Google Chronicle (SIEM)](https://img.shields.io/badge/Google%20SIEM%20(Chronicle)-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NIST Frameworks](https://img.shields.io/badge/NIST%20Frameworks-FF7043?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-C2185B?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-5E35B1?style=for-the-badge)
 ---
 
 ## 📂 Featured Projects

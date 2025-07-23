@@ -94,7 +94,7 @@ A script to generate `.ics` files for calendar events. It includes support for r
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasyan1337&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
   </a>
   <br/>
-  <img src="https://github-readme-stats-m42v.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-rf9te9dxb-kasyan1337s-projects.vercel.app/api/top-langs/?username=kasyan1337&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
 </p>
 
 ---

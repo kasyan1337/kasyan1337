@@ -1,6 +1,6 @@
 # Hi there, I'm Kasim 👋
 
-Welcome to my GitHub profile! I'm a hobby developer exploring automation, data analysis, and web development projects. Below is a selection of my repositories showcasing my technical work.
+Welcome to my GitHub profile! I'm a software developer exploring automation, data analysis, and web development projects. Below is a selection of my repositories showcasing my technical work.
 
 ## 🛠️ Skills & Technologies
 
